@@ -1,0 +1,15 @@
+# Sensitive credentials - NEVER commit this
+.env
+
+# Python Virtual Environments
+venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+
+# OS-specific clutter
+.DS_Store
+Thumbs.db
